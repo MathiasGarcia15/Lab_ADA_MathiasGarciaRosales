@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 /**
  *
- * @author usuario
+ * @author mathias garcia
  */
 public class ArregloRubro {
      List<Rubro> rubros = new ArrayList<>();
